@@ -80,9 +80,9 @@ df_in_2016 = pd.read_csv('https://raw.githubusercontent.com/vostpt/ICNF_DATA/mai
 df_in_2017 = pd.read_csv('https://raw.githubusercontent.com/vostpt/ICNF_DATA/main/icnf_2017_raw.csv')
 df_in_2018 = pd.read_csv('https://raw.githubusercontent.com/vostpt/ICNF_DATA/main/icnf_2018_raw.csv')
 # Create Dataframes from Fogos.PT API converted to CSV
-df_in_2019 = pd.read_csv("/assets/fogos_2019.csv")
-df_in_2020 = pd.read_csv("/assets/fogos_2020.csv")
-df_in_2021 = pd.read_csv("/assets/fogos_2021.csv")
+df_in_2019 = pd.read_csv("assets/fogos_2019.csv")
+df_in_2020 = pd.read_csv("assets/fogos_2020.csv")
+df_in_2021 = pd.read_csv("assets/fogos_2021.csv")
 
 # rename columns to English and lowercase
 df_in_2013 = df_in_2013.rename(columns={"Unnamed: 0": "id","MES":"month","DISTRITO":"district","ANO":"year","CONCELHO":"concelho","AREATOTAL":"icnf.burnArea.total"})
