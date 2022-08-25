@@ -32,7 +32,7 @@ import dash_daq as daq
 from dash import Input, Output, dcc, html
 import dash_mantine_components as dmc
 
-token="pk.eyJ1Ijoidm9zdHB0IiwiYSI6ImNqeXR3aHQxdTAyYjgzY21wbDMwaHJoaDQifQ.ql-IskzjOdAtEFvbltquaw"
+
 
 
 
