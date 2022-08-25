@@ -1,3 +1,6 @@
+
+<img width="1792" alt="Screenshot 2022-08-25 at 15 53 34" src="https://user-images.githubusercontent.com/34355337/186698819-4ca16508-b7a8-4db7-a1f3-9e503e877ccf.png">
+
 # FIRESTORY
  VOSTPT Dashboard with historical data for forest fires
 
